@@ -69,7 +69,7 @@ But there's still a lot of meaningful and interesting work to do with LSTM, whic
 Transfer learning is one of the most important method to train a state-of-the-art NLP model after the [Ulmfit Paper](https://arxiv.org/abs/1801.06146) & [Google Bert](https://github.com/google-research/bert) came out.
 Fine-tuning Bert & GPT2 requires huge computation power, but the conclusion is -- it totally worth it.
 
-NLP is develping rapidly!  Single Bert Base Model without any preprocessing or custom loss can easily reach a relatively high score, let alone great a mount of paper about advanced fine-tuning skill. 
+NLP is developing rapidly!  Single Bert Base Model without any preprocessing or custom loss can easily reach a relatively high score, let alone great a mount of paper about advanced fine-tuning skill. 
 
 For us, plug and play fine-tuning Bert can slightly outperform an elaborate LSTM model. Then, we do a bunch of work to improve the Bert and copy and paste the same approach to fine-tuning a OpenAI GPT2 Model.
 
