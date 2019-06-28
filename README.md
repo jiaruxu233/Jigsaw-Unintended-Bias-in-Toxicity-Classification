@@ -51,7 +51,7 @@ Here's an prediction validation score of one of our model. We can see that the s
 
 
 
-## What we did & what We learned
+## What we did & What we learned
 
 ### [Part 1  A Good Teacher Is Helpful For All Students -- Custom Loss](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Custom_Loss.ipynb)
 
