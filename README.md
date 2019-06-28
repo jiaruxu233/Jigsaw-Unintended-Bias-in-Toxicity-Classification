@@ -1,4 +1,4 @@
-# Kaggle Project Report -- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
+# DNSC 6290 Project Report -- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
 
 ### Group 7
 #### Group Member: Abby Liu, Jiaru Xu, Yuqi Liu, Weiteng Li
