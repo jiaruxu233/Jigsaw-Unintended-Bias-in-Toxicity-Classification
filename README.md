@@ -90,14 +90,8 @@ Ensemble is a very powerful machine learning techique, we did't spend a lot of t
 ### For detail explanation, please check the link here:
 
 * [ Part 1: A Good Teacher Is Helpful For All Students -- Custom Loss](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Custom_Loss.ipynb) 
-<br/>
-<br/>
 * [ Part 2: Flexibility Make the Life Much More Easier -- LSTM Playground](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/LSTM_Playground.ipynb) 
-<br/>
-<br/>
 * [ Part 3: Harness the Beast -- Fine-Tuning Google Bert & OpenAI GPT2](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Harness_the_Beast.ipynb) 
-<br/>
-<br/>
 * [ Part 4: Ensembling Is All You Need -- Blending To Achieve Higher Score](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Final_Blending.ipynb)
 <br/>
 <br/>
