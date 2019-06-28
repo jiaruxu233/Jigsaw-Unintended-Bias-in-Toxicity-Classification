@@ -40,12 +40,12 @@ Basically, the finally score is an average of 4 AUC. 3 of them only take into ac
 
 For more detail explanation, please check the link [here](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/evaluation).
 
-<br/>
-<br/>
+
+
 
 Here's an prediction validation score of one of our model. We can see that the subgroup AUC is pretty low, which affects the overall score a lot.
 
-<br/>
+
 ![metric3](https://github.com/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Pictures/metric3.png)
 
 
