@@ -38,7 +38,7 @@ Basically, the finally score is an average of 4 AUC. 3 of them only take into ac
 
 **Score = 1/4 OverAll_AUC + 1/4 Subgrou_AUC + 1/4 BPSN_AUC + 1/4 BNSP_AUC**
 
-For more detail explanation, please check the link [here](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/evaluation).
+For more detailed explanation, please check the link [here](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/evaluation).
 
 
 
@@ -81,7 +81,7 @@ Here's the AUC comparison of different model:
 |Ensemble 6 different LSTM|0.9368|
 |Best Bert|0.9415|
 |Best GPT2|0.9388|
-
+<br/>
 
 ### [Part 4  Ensemble Is All You Need -- Blending To Achieve Higher Score](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Final_Blending.ipynb)
 
