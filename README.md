@@ -109,4 +109,4 @@ Finally our reach about 0.9446 on the LB, which ranks about 75.
 
 ![score 1](https://github.com/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Pictures/Score.png)
 
-![score 2](https://github.com/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Pictures/Score.png)
+![score 2](https://github.com/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Pictures/score_.png)
