@@ -53,18 +53,18 @@ Here's an prediction validation score of one of our model. We can see that the s
 
 ## What we did & what We learned
 
-### Part 1  A Good Teacher Is Helpful For All Students -- Custom Loss
+### [Part 1  A Good Teacher Is Helpful For All Students -- Custom Loss](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Custom_Loss.ipynb)
 
 Because of the 4 AUC average evaluation metric, we try to make a custom loss fuction instead of just using the binary cross entropy. It turn out that not only the custom loss fuction works well (boost LSTM model AUC:0.930 -> 0.934 when doing experiment), when we use the custom loss for fine-tuning Bert & GPT2, it also gives the model great boost.
 <br/>
 
-### Part 2  Flexibility Make the Life Much More Easier -- LSTM Playground 
+### [Part 2  Flexibility Make the Life Much More Easier -- LSTM Playground](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/LSTM_Playground.ipynb) 
 
 Because we don't have enough computation power (most of the time we only use kaggle kernel with single Tesla P100 GPU), it's hard for us to do even sigle epoch fune-tuning for Bert & GPT2.
 But there's still a lot of meaningful and interesting work to do with LSTM, which later helps a lot when we try to do fine-tuning.
 <br/>
 
-###  Part 3  Harness the Beast -- Fine-Tuning Google Bert & OpenAI GPT2
+###  [Part 3  Harness the Beast -- Fine-Tuning Google Bert & OpenAI GPT2](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Harness_the_Beast.ipynb) 
 
 Transfer learning is one of the most important method to train a state-of-the-art NLP model after the [Ulmfit Paper](https://arxiv.org/abs/1801.06146) & [Google Bert](https://github.com/google-research/bert) came out.
 Fine-tuning Bert & GPT2 requires huge computation power, but the conclusion is -- it totally worth it.
@@ -83,7 +83,8 @@ Here's the AUC comparison of different model:
 |Best GPT2|0.9388|
 
 
-### Part 4 Ensemble Is All You Need -- Blending To Achieve Higher Score
+### [Part 4  Ensemble Is All You Need -- Blending To Achieve Higher Score](https://nbviewer.jupyter.org/github/jiaruxu233/Jigsaw-Toxicity-Classification/blob/master/Final_Blending.ipynb)
+
 Ensemble is a very powerful machine learning techique, we did't spend a lot of time to do this, but simply blending all of the model can give us great boost. (about 0.003 boost from single best model)
 
 ### For detail explanation, please check the link here:
